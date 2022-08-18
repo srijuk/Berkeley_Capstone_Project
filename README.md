@@ -13,4 +13,5 @@ The data has been kindly provided by my company's analytics team where these dat
 5.	Prices of Oil and Oil Products and their differentials across forward time and across regions (Singapore, London, US)
 6.  Crude Oil Inventories
 
-
+## Expected Outcomes
+To see if the prices of Brent spreads and other oil products spreads and differentials can be predicted in advance with some degree of accuracy so some alpha can be extracted by trading on these indicators.
