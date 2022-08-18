@@ -5,7 +5,7 @@ The project involves building a Deep learning model using LSTM and/or RNN on tim
 This will give my organization an edge over others and to extract alpha in an inefficient market. This is also useful as we live in a world where huge amounts of data exist and not enough tools have been developed to harness usefulness and efficiencies from these data sources.
 
 ## Data Sources and Types of Fields
-The data has been kindly provided by my company's analytics team where these data are collected, cleaned, and stored. The data is collected via an API. The type of data will include
+The data has been kindly provided by my company's analytics team where these data are collected from various sources, cleaned, and stored. I access this data using and an API provided by the team. The type of data will include
 1.	Crude Oil Monthly Production volumes by Country or Region or Sub Region
 2.	Refining Margins by Country or Region
 3.	Oil Flows between Regions or Countries
