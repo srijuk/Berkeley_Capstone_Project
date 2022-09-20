@@ -5,7 +5,7 @@ The project involves building a Deep learning model using Long Short Term Memory
 This will give my organization an edge over others and to extract alpha in an inefficient market. This is also useful as we live in a world where huge amounts of data exist and not enough tools have been developed to harness the usefulness and efficiencies from these data sources.
 
 ## Data Sources and Types of Fields
-The data has been kindly provided by my company's analytics team where these data are collected from various sources, cleaned, and stored. I access this data using and an API provided by the team. The type of data includes
+The data has been kindly provided by my company's analytics team where these data are collected from various sources, cleaned, and stored. I access this data using an API provided by the team. The type of data includes
 1.	Crude Oil Monthly Production volumes by Country
 2.	Crude Flows from Country to Country for major exporters and importers
 3.	Refinery Runs for major refiners
