@@ -1,7 +1,7 @@
 # Predicting Crude Spreads using Fundamental Data
 
 ## Introduction
-The project involves building a Deep learning model using Long Short Term Memory (LSTM) and Gated Recurrent Unit (GRU) models on time series data, to predict future Oil prices, primarily the front month Brent spread or the difference in prices between the Front Month Brent Futures contract and the second month futures contract. 
+The project involves building a Deep learning model using Long Short Term Memory (LSTM) and Gated Recurrent Unit (GRU) models on time series data, to predict future Oil prices, primarily the front month Brent spread i.e the difference in prices between the front month Brent futures contract and the second month futures contract. 
 This will give my organization an edge over others and to extract alpha in an inefficient market. This is also useful as we live in a world where huge amounts of data exist and not enough tools have been developed to harness the usefulness and efficiencies from these data sources.
 
 ## Data Sources and Types of Fields
